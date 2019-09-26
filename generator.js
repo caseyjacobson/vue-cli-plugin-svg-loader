@@ -1,7 +1,7 @@
 module.exports = (api, options) => {
   api.extendPackage({
     dependencies: {
-      'vue-svg-loader': '^0.11.0'
+      'vue-svg-loader': '^0.12.0'
     },
     vue: {
       pluginOptions: {
