@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-svg-loader",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Vue CLI plugin that adds vue-svg-loader to enable usage of SVG files as Vue components",
   "main": "index.js",
   "repository": "git+https://github.com/caseyjacobson/vue-cli-plugin-svg-loader.git",
